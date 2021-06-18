@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jojo4\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jojo4\\.nuget\\packages"
+    ]
+  }
+}

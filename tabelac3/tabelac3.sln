@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tabelac3", "tabelac3\tabelac3.csproj", "{A304489F-848C-4A8F-8E95-244C377407EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A304489F-848C-4A8F-8E95-244C377407EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A304489F-848C-4A8F-8E95-244C377407EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A304489F-848C-4A8F-8E95-244C377407EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A304489F-848C-4A8F-8E95-244C377407EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71B75647-6254-4997-BF19-9D01F8044C38}
+	EndGlobalSection
+EndGlobal
