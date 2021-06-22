@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jojo4\\source\\repos\\tabelac3\\tabelac3\\tabelac3.csproj": {}
+    "C:\\Users\\jojo4\\Desktop\\projects2\\tabelac3\\tabelac3\\tabelac3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jojo4\\source\\repos\\tabelac3\\tabelac3\\tabelac3.csproj": {
+    "C:\\Users\\jojo4\\Desktop\\projects2\\tabelac3\\tabelac3\\tabelac3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jojo4\\source\\repos\\tabelac3\\tabelac3\\tabelac3.csproj",
+        "projectUniqueName": "C:\\Users\\jojo4\\Desktop\\projects2\\tabelac3\\tabelac3\\tabelac3.csproj",
         "projectName": "tabelac3",
-        "projectPath": "C:\\Users\\jojo4\\source\\repos\\tabelac3\\tabelac3\\tabelac3.csproj",
+        "projectPath": "C:\\Users\\jojo4\\Desktop\\projects2\\tabelac3\\tabelac3\\tabelac3.csproj",
         "packagesPath": "C:\\Users\\jojo4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jojo4\\source\\repos\\tabelac3\\tabelac3\\obj\\",
+        "outputPath": "C:\\Users\\jojo4\\Desktop\\projects2\\tabelac3\\tabelac3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jojo4\\AppData\\Roaming\\NuGet\\NuGet.Config",
