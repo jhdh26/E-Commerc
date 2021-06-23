@@ -43,10 +43,10 @@ namespace tabelac3
             this.txtnome_pesquisar = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.gridtotal)).BeginInit();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // txtboxid
@@ -188,8 +188,8 @@ namespace tabelac3
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(127)))), ((int)(((byte)(255)))));
+            this.panel1.Controls.Add(this.pictureBox2);
             this.panel1.Controls.Add(this.btnsalvar);
-            this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.txtboxobs);
             this.panel1.Controls.Add(this.txtboxpreco);
             this.panel1.Controls.Add(this.txtboxnome);
@@ -200,18 +200,18 @@ namespace tabelac3
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(-14, 1);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(835, 100);
+            this.panel1.Size = new System.Drawing.Size(832, 100);
             this.panel1.TabIndex = 15;
             // 
-            // pictureBox1
+            // pictureBox2
             // 
-            this.pictureBox1.Image = global::tabelac3.Properties.Resources.login1;
-            this.pictureBox1.Location = new System.Drawing.Point(26, 13);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(60, 45);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 17;
-            this.pictureBox1.TabStop = false;
+            this.pictureBox2.Image = global::tabelac3.Properties.Resources.centralizedendlogo;
+            this.pictureBox2.Location = new System.Drawing.Point(26, 11);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(66, 50);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 18;
+            this.pictureBox2.TabStop = false;
             // 
             // Form1
             // 
@@ -232,7 +232,7 @@ namespace tabelac3
             ((System.ComponentModel.ISupportInitialize)(this.gridtotal)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -254,7 +254,7 @@ namespace tabelac3
         private System.Windows.Forms.TextBox txtnome_pesquisar;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }
 
